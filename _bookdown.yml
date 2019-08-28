@@ -1,0 +1,5 @@
+book_filename: "grewupwithme"
+language:
+  ui:
+    chapter_name: "Chương "
+delete_merged_file: true
